@@ -1,2 +1,2 @@
 # computerScienceFall2025
-Computer Science Club Website
+This project is created by Computer Science Students at Butte College. This website highlights the portfolios of all the members.
