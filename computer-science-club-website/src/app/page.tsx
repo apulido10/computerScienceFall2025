@@ -15,12 +15,14 @@ export default function Home({}) {
 
       <div>
         <h1 className="text-center mb-4 text-xl font-bold">Members:</h1>
+        
         <StudentInfo
           className="flex justify-center items-center  mb-10"
-          name="Alex"
-          role="Vice President"
-          major="Computer Science"
-          imageSrc={alexPicture.src}
+          name="Alex" // Put your own name in string
+          role="Vice President"  //Put your own role in the club
+          major="Computer Science" //Change string with own major
+          imageSrc={alexPicture.src} //put an image in pictures folder and import image about and just put .src after
+          // List your websites 
           projectLinks={
             <div className="flex gap-2">
               <a
